@@ -1,0 +1,12 @@
+# dependências / cache
+node_modules/
+.expo/
+.expo-shared/
+dist/
+build/
+.eslintcache
+*.log
+
+# plataformas nativas (caso existam)
+ios/
+android/
